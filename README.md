@@ -9,17 +9,18 @@
 
 🎓 현재는 밑의 기술을 다루고 있습니다.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
-![HTML](https://img.shields.io/badge/HTML-Advanced-red)
-![CSS](https://img.shields.io/badge/CSS-Advanced-blue)
-![Java](https://img.shields.io/badge/Java-Intermediate-orange)
-![C](https://img.shields.io/badge/C-Intermediate-lightgrey)
-![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-blue)
-![Git](https://img.shields.io/badge/Git-Advanced-red)
-![Node.js](https://img.shields.io/badge/Node.js-Intermediate-brightgreen)
-![Firebase](https://img.shields.io/badge/Firebase-Advanced-yellow)
-![Spring](https://img.shields.io/badge/Spring-Intermediate-green)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Intermediate-brightgreen)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+![C](https://img.shields.io/badge/C-lightgrey?style=for-the-badge&logo=c)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+![Node.js](https://img.shields.io/badge/Node.js-brightgreen?style=for-the-badge&logo=node.js)
+![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase)
+![Spring](https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=spring)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-brightgreen?style=for-the-badge&logo=spring)
+
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin-profile)
