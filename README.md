@@ -18,7 +18,6 @@
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
 ![C](https://img.shields.io/badge/C-lightgrey?style=for-the-badge&logo=c)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
 ![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
 ![Node.js](https://img.shields.io/badge/Node.js-brightgreen?style=for-the-badge&logo=node.js)
 ![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase)
