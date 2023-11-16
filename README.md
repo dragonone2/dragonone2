@@ -4,7 +4,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/your_twitter_handle?style=social)
 
 👨‍💻 저는 컴퓨터 공학 학사 학위를 취득 예정인 남성 개발자로, 다양한 프로그래밍 언어와 기술을 다룰 수 있습니다.
-사용자 중심의 디자인과 기능을 위해 끊임없이 발전하고 학습하는 웹 개발자 강현호입니다. 
+사용자 중심의 디자인과 기능을 위해 끊임없이 발전하고 학습하는 웹 개발자입니다. 
 
 
 🏆 **최근 수상 경력**
