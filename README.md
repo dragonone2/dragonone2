@@ -1,7 +1,6 @@
 ### 안녕하세요, 저는 강현호입니다! 👋
 
 ![GitHub followers](https://img.shields.io/github/followers/dragonone2?label=Follow&style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/your_twitter_handle?style=social)
 
     
 🎓 **현재 다루고 있는 기술**
